@@ -2,6 +2,9 @@
 Computerized tumor-infiltrating lymphocytes density score predicts survival of patients with resectable lung adenocarcinoma: a multi-institutional study
 
 
+The deep learning-based code and model will coming soon...
+The R code will coming soon...
+
 
 Abstract
 Background: The presence of a high abundance of tumor-infiltrating lymphocytes (TILs) has a positive impact on the prognosis of patients with lung adenocarcinoma (LUAD). This study aimed to develop and validate an artificial intelligence-driven pathological scoring system for the assessment of TILs on hematoxylin and eosin (H&E)-stained whole-slide images (WSIs) of patients with resectable LUAD. 
